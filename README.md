@@ -1,4 +1,4 @@
-# zensen-icon
+# zensen/layout
 
 A breakpoint-based responsive layout service.
 
